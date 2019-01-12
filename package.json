@@ -1,0 +1,19 @@
+{
+  "name": "training-node",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node server2.js",
+    "part1": "node server0.js",
+    "part2": "node server1.js",
+    "part3": "node server2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.3",
+    "express": "4.16.4",
+    "mysql2": "1.6.4",
+    "sequelize": "4.42.0"
+  }
+}

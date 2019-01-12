@@ -1,0 +1,22 @@
+{
+  "development": {
+    "db": {
+      "username": "root",
+      "password": "",
+      "database": "training",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "port": 8080
+  },
+  "production": {
+    "db": {
+      "username": "root",
+      "password": "",
+      "database": "training",
+      "host": "localhost",
+      "dialect": "mysql"
+    },
+    "port": 3000
+  }
+}
